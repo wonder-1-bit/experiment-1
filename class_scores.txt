@@ -1,4 +1,9 @@
 Alice 90
+<<<<<<< HEAD
 Charlie 95
 Lily 100
 Tom 70
+=======
+Bob 85
+Charlie 95
+>>>>>>> 5fdb954 (双向链表)
